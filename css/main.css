@@ -92,9 +92,8 @@ img {
 }
 
 .header-link {
-    padding: 8px 0 8px 15px;
+    padding: 10px;
     text-decoration: none;
-    /* font-family: 'Barlow'; */
     font-style: normal;
     font-weight: 700;
     font-size: 12px;
@@ -104,4 +103,3 @@ img {
 
 /* FINISH-HEADER */
 /* MAIN */
-/* HERO-SECTION */
