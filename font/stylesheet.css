@@ -1,0 +1,60 @@
+@font-face {
+    font-family: 'Barlow';
+    src: url('font/Barlow-Medium.woff2') format('woff2'),
+        url('font/Barlow-Medium.woff') format('woff'),
+        url('font/Barlow-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Barlow';
+    src: url('font/Barlow-Bold.woff2') format('woff2'),
+        url('font/Barlow-Bold.woff') format('woff'),
+        url('font/Barlow-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Barlow';
+    src: url('font/Barlow-Black.woff2') format('woff2'),
+        url('font/Barlow-Black.woff') format('woff'),
+        url('font/Barlow-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Barlow';
+    src: url('font/Barlow-Regular.woff2') format('woff2'),
+        url('font/Barlow-Regular.woff') format('woff'),
+        url('font/Barlow-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Barlow';
+    src: url('font/Barlow-SemiBold.woff2') format('woff2'),
+        url('font/Barlow-SemiBold.woff') format('woff'),
+        url('font/Barlow-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fraunces';
+    src: url('font/Fraunces-9ptBlack.woff2') format('woff2'),
+        url('font/Fraunces-9ptBlack.woff') format('woff'),
+        url('font/Fraunces-9ptBlack.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
